@@ -23,7 +23,7 @@ scipy==1.18.1
 pytest==9.1.1
 pytest-asyncio==1.4.0
 pytest-playwright==0.8.0
-playwright==1.62.0
+playwright==1.65.2
 
 # Coverage gate (pytest.ini's --cov-fail-under) - the floor is set for the
 # fast suite (ci.yml's backend-fast job); release-gate.yml/nightly-e2e-dev.yml
