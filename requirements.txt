@@ -12,7 +12,7 @@
 # =============================================================================
 
 # Web framework & server
-fastapi==0.141.1
+fastapi==0.162.7
 uvicorn[standard]==0.52.1
 websockets==17.0.1
 python-multipart==0.0.32
